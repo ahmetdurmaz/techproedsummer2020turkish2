@@ -2,7 +2,7 @@ package day07ifelseifstatementdt;
 
 import java.util.Scanner;
 
-public class Ifelseif01 {
+public class IfelseIf01 {
 
 	public static void main(String[] args) {
 		/*
