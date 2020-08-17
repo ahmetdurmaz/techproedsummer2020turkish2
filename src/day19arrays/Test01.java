@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class Test01 {
 
 	public static void main(String[] args) {
-		int arr[][] = new int[2][3];
-
-		System.out.println(Arrays.deepToString(arr));
+		String str = "Cok calis, mutevazi ol"; 
+		String strArray[] = str.split("X");
+		System.out.println(Arrays.toString(strArray));
 	}
 }
